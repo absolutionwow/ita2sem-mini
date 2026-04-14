@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VueGk5sQsx4=",
+  "dgSpecHash": "PtHE47s2KrY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\RiderProjects\\ita2sem-mini\\webApp\\webApp.csproj",
+  "projectFilePath": "C:\\Users\\andre\\Skole\\ostforparadis\\ita2sem-mini\\webApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.2\\microsoft.aspnetcore.app.internal.assets.10.0.2.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.2\\microsoft.aspnetcore.authorization.10.0.2.nupkg.sha512",
